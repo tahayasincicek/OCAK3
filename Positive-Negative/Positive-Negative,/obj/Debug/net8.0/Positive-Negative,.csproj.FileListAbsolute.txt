@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\bin\Debug\net8.0\Positive-Negative,.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\bin\Debug\net8.0\Positive-Negative,.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\bin\Debug\net8.0\Positive-Negative,.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\bin\Debug\net8.0\Positive-Negative,.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\bin\Debug\net8.0\Positive-Negative,.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\refint\Positive-Negative,.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\Positive-Negative,.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Positive-Negative,\Positive-Negative,\obj\Debug\net8.0\ref\Positive-Negative,.dll

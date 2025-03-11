@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\bin\Debug\net8.0\Odd or Even.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\bin\Debug\net8.0\Odd or Even.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\bin\Debug\net8.0\Odd or Even.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\bin\Debug\net8.0\Odd or Even.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\bin\Debug\net8.0\Odd or Even.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\refint\Odd or Even.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\Odd or Even.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Odd or Even\Odd or Even\obj\Debug\net8.0\ref\Odd or Even.dll
